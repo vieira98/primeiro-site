@@ -1,0 +1,76 @@
+body{
+
+    font-family:sans-serif
+    }
+ul{
+ font-family:Arial
+}
+li {
+  list-style: circle;
+}
+
+.list {
+  list-style: square;
+}
+#imgpos {
+  position: absolute;
+  left: 65%;
+  top: 5%;
+} 
+h2 {
+  position:absolute;
+  left: 20%;
+  top: 10%;
+
+}
+#imgpos2{
+  position: absolute;
+  left: 12%;
+  top:5% ;
+}
+#imgpos3{
+position: absolute;
+top: 40%;
+right: 0.2%;
+
+} 
+#sobre{
+position: absolute;
+left: 20%;
+top: 15%;
+}
+#tenho{
+position: absolute;
+left: 20%;
+top: 20%;
+}
+#hab{
+position: absolute;
+left:20%;
+top:25%;
+
+}
+#mexo{
+position: absolute;
+left: 20%;
+top:30%;
+
+}
+#rodape-github{
+position: absolute;
+bottom: 2%;
+left: 50%;
+max-width: 20%;
+max-height: 20%;
+
+}
+#experiencias{
+  position: absolute;
+  left: 20%;
+  top: 35%;
+}
+#exp{
+position:absolute;
+left: 20%;
+top: 40%;
+}
